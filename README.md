@@ -1,2 +1,1 @@
-# StudyNotion
-Login and Signup Pages with multiple navigation through react-router
+# React Router Project Starter
